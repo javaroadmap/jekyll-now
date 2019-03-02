@@ -1,11 +1,11 @@
 ---
 layout: post
-title: ÁöÅ³ »ç¿ë ¹æ¹ı
+title: ì§€í‚¬ ì‚¬ìš© ë°©ë²•
 ---
-ÁöÅ³Àº ¹«·á·Î Á¦°øµÇ´Â github pages¿¡¼­ ºí·Î±ëÀÌ °¡´ÉÇÏµµ·Ï °³¹ßµÈ ÀÀ¿ëÀ¸·Î github.com »óÀÇ barryclark/jekyll-now ¸®ÆÄÁöÅä¸®¸¦ ¾Æ·¡ ±×¸²°ú °°ÀÌ forking ÇÏ¹Ç·Î½á »ç¿ëÀÌ °¡´ÉÇÏ´Ù.
-![¿øº» _repo]({{ site.baseurl }}/images/barryclarkjekyll.png)
-forking ÈÄ¿¡´Â eclipse µîÀ» ÀÌ¿ëÇÏ¿© git È¯°æ¿¡¼­ ¼öÁ¤ÀÌ °¡´ÉÇÏ´Ù. ÀÌ¸¦ À§ÇØ cloneÀ» ´ÙÀ½ ±×¸²°ú °°ÀÌ ¿ì¼±ÀûÀ¸·Î ¼öÇàÇÑ´Ù.
-![clone È­¸é]({{ site.baseurl }}/images/jekyllclone.png)
-±×·¯¸é ...
+ì§€í‚¬ì€ ë¬´ë£Œë¡œ ì œê³µë˜ëŠ” github pagesì—ì„œ ë¸”ë¡œê¹…ì´ ê°€ëŠ¥í•˜ë„ë¡ ê°œë°œëœ ì‘ìš©ìœ¼ë¡œ github.com ìƒì˜ barryclark/jekyll-now ë¦¬íŒŒì§€í† ë¦¬ë¥¼ ì•„ë˜ ê·¸ë¦¼ê³¼ ê°™ì´ forking í•˜ë¯€ë¡œì¨ ì‚¬ìš©ì´ ê°€ëŠ¥í•˜ë‹¤.
+![repo]({{ site.baseurl }}/images/barryclarkjekyll.png)
+forking í›„ì—ëŠ” eclipse ë“±ì„ ì´ìš©í•˜ì—¬ git í™˜ê²½ì—ì„œ ìˆ˜ì •ì´ ê°€ëŠ¥í•˜ë‹¤. ì´ë¥¼ ìœ„í•´ cloneì„ ë‹¤ìŒ ê·¸ë¦¼ê³¼ ê°™ì´ ìš°ì„ ì ìœ¼ë¡œ ìˆ˜í–‰í•œë‹¤.
+![clone]({{ site.baseurl }}/images/jekyllclone.png)
+ê·¸ëŸ¬ë©´ ...
 
 
