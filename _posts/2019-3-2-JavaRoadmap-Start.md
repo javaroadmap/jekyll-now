@@ -5,6 +5,11 @@ title: 지킬 사용 방법
 지킬은 무료로 제공되는 github pages에서 블로깅이 가능하도록 개발된 응용으로 github.com 상의 barryclark/jekyll-now 리파지토리를 아래 그림과 같이 forking 하므로써 사용이 가능하다.
 
 ```java
+    System.out.println("sum=" + sum);
+```
+
+{% highlight raw %}
+
 // 두 개의 클래스로 구성된  java 예제
 class IntAdd {            
   int z;
@@ -19,13 +24,12 @@ class AddMain {
     int a, b;
     a = Integer.parseInt(args[0]);
     b = Integer.parseInt(args[1]);
-
     IntAdd  addInstance = new IntAdd();
     sum = addInstance.add(a,b);
     System.out.println("sum=" + sum);
   }
 }
-```
+{% endhighlight %}
 
 ![repo]({{ site.baseurl }}/images/jekyllnow.png)
 ![repo]({{ site.baseurl }}/images/jekyllforking.png)
