@@ -6,6 +6,7 @@ title: 지킬 사용 방법
 
 ```java
 String str = new String();
+System.out.println(str);
 ```
 
 ![repo]({{ site.baseurl }}/images/jekyllnow.png)
